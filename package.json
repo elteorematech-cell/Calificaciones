@@ -1,0 +1,2 @@
+{"name":"sistema-calificaciones","version":"1.0.0","description":"Sistema de Calificaciones ITP · U.E.N. Monseñor Lucas Guillermo Castillo","private":true,
+"scripts":{"start":"node --env-file-if-exists=.env server.js","test":"node test/smoke.js"},"engines":{"node":">=22.13"}}
